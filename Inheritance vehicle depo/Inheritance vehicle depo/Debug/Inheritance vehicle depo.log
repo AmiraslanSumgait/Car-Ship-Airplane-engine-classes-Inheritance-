@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Amiraslan\source\repos\Inheritance vehicle depo\Inheritance vehicle depo\Source.cpp(206,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Amiraslan\source\repos\Inheritance vehicle depo\Inheritance vehicle depo\Source.cpp(41): warning C4715: 'Stack<Car>::pop': not all control paths return a value
+C:\Users\Amiraslan\source\repos\Inheritance vehicle depo\Inheritance vehicle depo\Source.cpp(41): warning C4715: 'Stack<Ship>::pop': not all control paths return a value
+C:\Users\Amiraslan\source\repos\Inheritance vehicle depo\Inheritance vehicle depo\Source.cpp(41): warning C4715: 'Stack<Airplane>::pop': not all control paths return a value
+  Inheritance vehicle depo.vcxproj -> C:\Users\Amiraslan\source\repos\Inheritance vehicle depo\Debug\Inheritance vehicle depo.exe
